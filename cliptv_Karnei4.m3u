@@ -9,9 +9,9 @@ http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
 #EXTINF:-1,ATV
 http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
-#EXTINF:-1,X?z?r
+#EXTINF:-1,Xəzər
 http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
-#EXTINF:-1,Dalga TV
+#EXTINF:-1,Dalğa TV
 http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
 #EXTINF:-1,CBC Azerbaijan
 http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
@@ -21,9 +21,9 @@ http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
 http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
 #EXTINF:-1,Arb 24
 http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
-#EXTINF:-1,M?d?niyy?t
+#EXTINF:-1,Mədəniyyət
 http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
-#EXTINF:-1,Arb Gun?s
+#EXTINF:-1,Arb Günəş
 http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
 #EXTINF:-1,Idman
 http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
@@ -49,7 +49,7 @@ http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
 #EXTINF:-1,Bloomberg
 http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
-#EXTINF:-1,HABERTURK
+#EXTINF:-1,HABERTÜRK
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
 #EXTINF:-1,NTV
 http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
@@ -245,7 +245,7 @@ http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 #EXTINF:-1,Мульт
 http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
-#EXTINF:-1,NICK JR
+#EXTINF:-1,NİCK JR
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1,Мультимания
 http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
