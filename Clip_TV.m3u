@@ -95,7 +95,7 @@ http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные",Bloomberg
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные" group-logo="https://github.com/avertv/playlist/raw/main/icons/googlereader.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
@@ -227,7 +227,7 @@ http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные" group-logo="https://github.com/avertv/playlist/raw/main/icons/googlereader.png",Евроновости
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные",Евроновости
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
@@ -311,7 +311,7 @@ http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы",black
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы" group-logo="https://raw.githubusercontent.com/avertv/playlist/main/icons/videos.png",black
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
