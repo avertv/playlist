@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://gabbarit.page.link/epg"
 #EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",AzTV
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
