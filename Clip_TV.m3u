@@ -187,7 +187,7 @@ http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Общие" group-logo="https://github.com/avertv/playlist/blob/main/icons/myfiles.png",Мир
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Общие" group-logo="https://github.com/avertv/playlist/raw/main/icons/myfiles.png",Мир
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
@@ -227,7 +227,7 @@ http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные" group-logo="https://github.com/avertv/playlist/blob/main/icons/googlereader.png",Евроновости
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новостные" group-logo="https://github.com/avertv/playlist/raw/main/icons/googlereader.png",Евроновости
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
@@ -711,7 +711,7 @@ http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные",FASHION TV
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные" group-logo="https://github.com/avertv/playlist/raw/main/icons/gamehub.png",FASHION TV
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 https://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
