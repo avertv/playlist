@@ -319,7 +319,7 @@ http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 https://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТВ-3
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТВ 3
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
