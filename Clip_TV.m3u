@@ -1,0 +1,717 @@
+#EXTM3U
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",AzTV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Ictimai
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Lider
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Space
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ATV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Xəzər
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Dalğa TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",CBC Azerbaijan
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Dunya TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Arb
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Arb 24
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Mədəniyyət
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Arb Günəş
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Idman
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",CBC Sport
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MuzTV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Real TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ATV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Show
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Star
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TV 8
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Kanal 7
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ShowMax
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT World
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Bloomberg
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",HABERTÜRK
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",NTV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT Haber
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT 1
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Teve 2
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",A Haber
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TV 8.5
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",AKILLI TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT Cocuk
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Minika Go
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Minika Cocuk
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",DMAX
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",A Spor
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TRT Spor
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",YABAN
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Yaban_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TMB TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",POWERTURK
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Kanal D
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Mezzo Live
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MTV Live
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",BBC World News
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Мир
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Звезда
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Zvezda_SD_12q2.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТВ Центр
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_Center_SD_159q.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",8 канал
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/8_kanal_SD_951w.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",РЕН
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",НТВ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Ностальгия
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",5 канал
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Первый Канал
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Россия 1
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Евроновости
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",РБК
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Россия 24
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",AMC
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",МИР 24
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТНТ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",2x2
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",СТС
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",СТС love
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Пятница!
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Че
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Авто Плюс
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Домашний
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",HD Life
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",RTG TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TLC
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",PARAMOUNT COMEDY
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Беларусь 24
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Дикий
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Sony Turbo
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Amedia 2
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТВ-3
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TV1000
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TV1000 Action
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОХИТ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОПРЕМЬЕРА
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОСЕМЬЯ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Любимое Кино
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Индийское Кино
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Кинокомедия
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",XXI
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",CBS Reality
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/CBS_Reality_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Дом Кино Премиум
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Мужское кино
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Еврокино
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MGM
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Vip Comedy
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",VIP Megahit
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Vip Premiere
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Amedia Premium
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОМИКС
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Кино ТВ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Мир Сериала
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",CINEMA
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Fox Россия
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Amedia 1
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Amedia Hit
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",НСТВ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Paramount Channel
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Русский Роман
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Русский Детектив
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Тлум
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Tlum_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Карусель
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Disney
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Tiji
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Детский Мир
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Nickelodeon
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Мульт
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",NİCK JR
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Мультимания
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Gulli Girl
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Ani
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Cartoon Network
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Outdoor
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Боец
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч!
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",FightBox
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Viasat Sport
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",КХЛ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Арена
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Игра
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Наш Футбол
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",МАТЧ! НАШ СПОРТ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Россия Культура
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Viasat History
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Animal Planet
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Discovery Channel
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",History
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",National Geographic Channel
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Travel Channel
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Viasat Nature
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Spike
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Spike_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",360
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Первый Образовательный
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Perviy_Obrazovatelniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Da Vinci Learning
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Mama
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",OCEAN TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Бобёр ТВ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТЕЛЕКАФЕ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",АВТО 24
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Nano
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",МУЗ
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",BRIDGE TV Dance
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Европа Плюс
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Ru TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/RU_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",BRIDGE TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MTV RUSSIA
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",VH1 EUROPE
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",VH1 CLASSIC
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Жара
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MCM TOP
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MTV DANCE
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",MTV HITS
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Шансон
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",Fashionbox
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ClipTV.az" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",FASHION TV
+#EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+https://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
