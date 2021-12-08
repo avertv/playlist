@@ -299,7 +299,7 @@ http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы",Paramount Comedy
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы" group-logo="https://raw.githubusercontent.com/avertv/playlist/main/icons/videos.png",Paramount Comedy
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
@@ -311,7 +311,7 @@ http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы" group-logo="https://raw.githubusercontent.com/avertv/playlist/main/icons/videos.png",black
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Фильмы",black
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
