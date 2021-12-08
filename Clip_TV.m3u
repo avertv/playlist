@@ -655,7 +655,7 @@ http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Музыка",Муз ТВ
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Музыка" group-logo="https://github.com/avertv/playlist/raw/main/icons/music.png",Муз ТВ
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
