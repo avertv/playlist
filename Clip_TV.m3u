@@ -247,7 +247,7 @@ http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные",ТНТ
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные" group-logo="https://github.com/avertv/playlist/raw/main/icons/gamehub.png",ТНТ
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
@@ -271,7 +271,7 @@ http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Мужские",Авто плюс
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Мужские" group-logo="https://github.com/avertv/playlist/raw/main/icons/googledrive.png",Авто плюс
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
@@ -711,7 +711,7 @@ http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные" group-logo="https://github.com/avertv/playlist/raw/main/icons/gamehub.png",FASHION TV
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Развлекательные",FASHION TV
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 https://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
