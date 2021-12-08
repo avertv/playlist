@@ -283,7 +283,7 @@ http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Познавательные" group-logo="https://raw.githubusercontent.com/avertv/playlist/main/icons/papercamera.png",Кухня ТВ
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Познавательные" group-logo="https://github.com/avertv/playlist/main/icons/papercamera.png",Кухня ТВ
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
@@ -515,7 +515,7 @@ http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 https://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
-#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Спорт",Матч! Боец
+#EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Спорт" group-logo="https://github.com/avertv/playlist/raw/main/icons/homerunbattle.png",Матч! Боец
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
